@@ -1,333 +1,570 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<package version="1.0.0" uuid="yoshimotomotion-efa3ec">
+<package uuid="yoshimotomotion" version="1.0.0">
  <names>
   <name lang="en_US">YoshimotoMotion</name>
  </names>
- <supportedLanguages>
-  <language>en_US</language>
- </supportedLanguages>
  <descriptionLanguages>
   <language>en_US</language>
  </descriptionLanguages>
  <contents>
-  <behaviorContent path="ネガティブ/-_あきれ">
+  <behaviorContent path="negative/akire">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ネガティブ/-_あり得ない">
+  <behaviorContent path="negative/arienai">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ネガティブ/-_いやいや">
+  <behaviorContent path="negative/sore_wa_nai">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ネガティブ/-_え！？">
+  <behaviorContent path="negative/wakatta_wakatta">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ネガティブ/-_それはない%20">
+  <behaviorContent path="negative/tere">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ネガティブ/-_だめだこりゃ">
+  <behaviorContent path="negative/zettai_muri">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ネガティブ/-_やれやれ">
+  <behaviorContent path="negative/dameda_korya">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ネガティブ/-_わかったわかった">
+  <behaviorContent path="negative/atama_kaki_kaki">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ネガティブ/-_キャー">
+  <behaviorContent path="negative/donmai">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ネガティブ/-_ドンマイ">
+  <behaviorContent path="negative/eh">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ネガティブ/-_下向き">
+  <behaviorContent path="negative/fushi_me">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ネガティブ/-_伏し目">
+  <behaviorContent path="negative/futsu_jan">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ネガティブ/-_恥ずかし">
+  <behaviorContent path="negative/hazukashi">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ネガティブ/-_普通じゃん">
+  <behaviorContent path="negative/iya_iya">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ネガティブ/-_照れ">
+  <behaviorContent path="negative/kubi_yoko_ni_furu">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ネガティブ/-_絶対無理">
+  <behaviorContent path="negative/kyaa">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ネガティブ/-_頭かきかき">
+  <behaviorContent path="negative/shita_muki">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ネガティブ/-_首横にふる">
+  <behaviorContent path="negative/yare_yare">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ノーマル/n_あせってフリック">
+  <behaviorContent path="normal/aruku">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ノーマル/n_いいですか？">
+  <behaviorContent path="normal/asette_flick">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ノーマル/n_うなずき">
+  <behaviorContent path="normal/do_desu_minasan">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ノーマル/n_お辞儀">
+  <behaviorContent path="normal/gakkari">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ノーマル/n_がっかり">
+  <behaviorContent path="normal/hakushu">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ノーマル/n_これです">
+  <behaviorContent path="normal/hidari_gawa_no_minasan">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ノーマル/n_どうです皆さん">
+  <behaviorContent path="normal/hidari_migi_dochira">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ノーマル/n_もっとがっかり">
+  <behaviorContent path="normal/hidari_te_hiroge">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ノーマル/n_やや右！">
+  <behaviorContent path="normal/hidari_te_hiroge_de_desuka">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ノーマル/n_わかりましたね？">
+  <behaviorContent path="normal/ii_desuka">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ノーマル/n_オッス！">
+  <behaviorContent path="normal/kao_sashi">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ノーマル/n_タブレットに注目">
+  <behaviorContent path="normal/kata_te_age_te_miwatasu">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ノーマル/n_タブレットを読む">
+  <behaviorContent path="normal/kata_te_de_doozo">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ノーマル/n_両手でしゅーりょー！">
+  <behaviorContent path="normal/kata_te_de_mune_o_guu">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ノーマル/n_両手で煽りもっと">
+  <behaviorContent path="normal/kata_te_de_tablet_chumoku">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ノーマル/n_両手で胸おさえ">
+  <behaviorContent path="normal/kata_te_takaku_agete_bye_bye">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ノーマル/n_両手ひろげ">
+  <behaviorContent path="normal/kihon_shisei">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ノーマル/n_両手ひろげ後上げ下げなんてこった">
+  <behaviorContent path="normal/kore_desu">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ノーマル/n_両手ウッス腰へ">
+  <behaviorContent path="normal/kuchi_de_camera_satsuei">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ノーマル/n_両手肩位置でバイバイ">
+  <behaviorContent path="normal/mi_watasu">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ノーマル/n_口でカメラ撮影">
+  <behaviorContent path="normal/migi_gawa_no_minasan">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ノーマル/n_右も左も">
+  <behaviorContent path="normal/migi_mo_hidari_mo">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ノーマル/n_右側のみなさん">
+  <behaviorContent path="normal/migi_muki_tanomu">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ノーマル/n_右向き手招き">
+  <behaviorContent path="normal/migi_muki_te_maneki">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ノーマル/n_右向き頼む">
+  <behaviorContent path="normal/migi_te_hiroge">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ノーマル/n_右手ひろげ">
+  <behaviorContent path="normal/migi_te_kata_kara_bye_bye_long">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ノーマル/n_右手肩からバイバイロング">
+  <behaviorContent path="normal/migite_kata_kara_bye_bye">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ノーマル/n_右手肩位置でバイバイ">
+  <behaviorContent path="normal/mine_ni_te_tojite">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ノーマル/n_基本姿勢">
+  <behaviorContent path="normal/motto_gakkari">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ノーマル/n_天を仰ぐ">
+  <behaviorContent path="normal/mune_ni_te_hiraku">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ノーマル/n_左側のみなさん">
+  <behaviorContent path="normal/nagameru">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ノーマル/n_左右どちら？">
+  <behaviorContent path="normal/ojigi">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ノーマル/n_左手ひろげ">
+  <behaviorContent path="normal/ossu">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ノーマル/n_左手ひろげで、ですか？">
+  <behaviorContent path="normal/ryote_de_aori_motto">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ノーマル/n_店員さ～ん！">
+  <behaviorContent path="normal/ryote_de_mune_osae">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ノーマル/n_手をポン、そうか">
+  <behaviorContent path="normal/ryote_de_syuryo">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ノーマル/n_手を交互に広げ">
+  <behaviorContent path="normal/ryote_hiroge">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ノーマル/n_拍手">
+  <behaviorContent path="normal/ryote_hiroge_age_sage_nante_kotta">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ノーマル/n_指を広げてこんなに沢山">
+  <behaviorContent path="normal/ryote_kata_ichi_de_bye_bye">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ノーマル/n_歩く">
+  <behaviorContent path="normal/ryote_ussu_koshi_e">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ノーマル/n_片手でどうぞ">
+  <behaviorContent path="normal/settoku">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ノーマル/n_片手でタブレット注目">
+  <behaviorContent path="normal/tablet_ni_chumoku">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ノーマル/n_片手で胸をグっ">
+  <behaviorContent path="normal/tablet_o_yomu">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ノーマル/n_片手上げて見渡す">
+  <behaviorContent path="normal/te_o_koogo_ni_hiroge">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ノーマル/n_片手高く上げてバイバイ">
+  <behaviorContent path="normal/te_o_pon_souka">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ノーマル/n_眺める">
+  <behaviorContent path="normal/ten_o_aogu">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ノーマル/n_胸に手(閉じて）">
+  <behaviorContent path="normal/tenin_saan">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ノーマル/n_胸に手(開く）">
+  <behaviorContent path="normal/unazuki">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ノーマル/n_見渡す">
+  <behaviorContent path="normal/wakari_mashita_ne">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ノーマル/n_説得">
+  <behaviorContent path="normal/yaya_migi">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ノーマル/n_顔さし">
+  <behaviorContent path="normal/yubi_o_hirogete_minasan_dodesu_ka">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ポジティブ/+_いっくぞー！">
+  <behaviorContent path="positive/banzai">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ポジティブ/+_わくわく">
+  <behaviorContent path="positive/banzai2">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ポジティブ/+_エクセレント！">
+  <behaviorContent path="positive/doya">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ポジティブ/+_ドヤ">
+  <behaviorContent path="positive/excellent">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ポジティブ/+_バンザイ">
+  <behaviorContent path="positive/ikkuzo">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ポジティブ/+_バンザイ2">
+  <behaviorContent path="positive/kata_te_de_guts_pose">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ポジティブ/+_パーフェクト！">
+  <behaviorContent path="positive/kata_te_zutsu_banzai">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ポジティブ/+_上向きガッツ">
+  <behaviorContent path="positive/perfect">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ポジティブ/+_片手ずつバンザイ">
+  <behaviorContent path="positive/ude_jiman">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ポジティブ/+_片手でガッツポーズ">
+  <behaviorContent path="positive/ue_muki_guts">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="ポジティブ/+_腕自慢">
+  <behaviorContent path="positive/waku_waku">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
  </contents>
