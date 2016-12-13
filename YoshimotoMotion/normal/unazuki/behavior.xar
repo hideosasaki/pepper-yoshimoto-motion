@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <ChoregrapheProject xmlns="http://www.aldebaran-robotics.com/schema/choregraphe/project.xsd" xar_version="3">
-    <Box name="root" id="2" localization="8" tooltip="Enter tooltip here" x="187" y="237">
+    <Box name="root" id="-1" localization="8" tooltip="Enter tooltip here" x="187" y="237">
         <bitmap>media/images/box/box-diagram.png</bitmap>
         <script language="4">
             <content>
@@ -13,11 +13,11 @@
         <Output name="onStopped" type="1" type_size="1" nature="1" inner="0" tooltip="ボックス動作の終了時に信号を送る" id="4" />
         <Timeline enable="1" fps="25" start_frame="1" end_frame="17" size="17">
             <ActuatorList model="">
-                <ActuatorCurve name="value" actuator="HeadPitch" recordable="0" mute="0" unit="0">
+                <ActuatorCurve name="value" actuator="HeadPitch" mute="0" unit="0">
                     <Key frame="9" value="2" />
                     <Key frame="17" value="-11.5" />
                 </ActuatorCurve>
-                <ActuatorCurve name="value" actuator="HeadYaw" recordable="0" mute="0" unit="0">
+                <ActuatorCurve name="value" actuator="HeadYaw" mute="0" unit="0">
                     <Key frame="9" value="0" />
                     <Key frame="17" value="-2.95486e-05" />
                 </ActuatorCurve>

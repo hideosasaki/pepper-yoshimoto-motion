@@ -82,6 +82,7 @@
         <BehaviorDescription name="behavior" src="positive/ude_jiman" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="positive/ue_muki_guts" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="positive/waku_waku" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="negative/eeh" xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs />
     <Resources>

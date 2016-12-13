@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <ChoregrapheProject xmlns="http://www.aldebaran-robotics.com/schema/choregraphe/project.xsd" xar_version="3">
-    <Box name="root" id="18" localization="8" tooltip="Enter tooltip here" x="76" y="265">
+    <Box name="root" id="-1" localization="8" tooltip="Enter tooltip here" x="76" y="265">
         <bitmap>media/images/box/box-diagram.png</bitmap>
         <script language="4">
             <content>
@@ -13,7 +13,7 @@
         <Output name="onStopped" type="1" type_size="1" nature="1" inner="0" tooltip="ボックス動作の終了時に信号を送る" id="4" />
         <Timeline enable="1" fps="25" start_frame="1" end_frame="107" size="107">
             <ActuatorList model="">
-                <ActuatorCurve name="value" actuator="HeadPitch" recordable="0" mute="0" unit="0">
+                <ActuatorCurve name="value" actuator="HeadPitch" mute="0" unit="0">
                     <Key frame="30" value="-11.4592" />
                     <Key frame="37" value="5" />
                     <Key frame="44" value="-11.4592" />
@@ -23,7 +23,7 @@
                     <Key frame="72" value="5" />
                     <Key frame="107" value="-11.4592" />
                 </ActuatorCurve>
-                <ActuatorCurve name="value" actuator="HeadYaw" recordable="0" mute="0" unit="0">
+                <ActuatorCurve name="value" actuator="HeadYaw" mute="0" unit="0">
                     <Key frame="30" value="-4.70003e-21" />
                     <Key frame="37" value="-4.70003e-21" />
                     <Key frame="44" value="-4.70003e-21" />
@@ -33,7 +33,7 @@
                     <Key frame="72" value="-4.70003e-21" />
                     <Key frame="107" value="0" />
                 </ActuatorCurve>
-                <ActuatorCurve name="value" actuator="RElbowRoll" recordable="0" mute="0" unit="0">
+                <ActuatorCurve name="value" actuator="RElbowRoll" mute="0" unit="0">
                     <Key frame="13" value="72.4" />
                     <Key frame="30" value="80" />
                     <Key frame="37" value="89.5" />
@@ -45,7 +45,7 @@
                     <Key frame="92" value="77.4" />
                     <Key frame="107" value="84.6388" />
                 </ActuatorCurve>
-                <ActuatorCurve name="value" actuator="RElbowYaw" recordable="0" mute="0" unit="0">
+                <ActuatorCurve name="value" actuator="RElbowYaw" mute="0" unit="0">
                     <Key frame="30" value="5.53478" />
                     <Key frame="37" value="5.53478" />
                     <Key frame="44" value="5.53478" />
@@ -55,7 +55,7 @@
                     <Key frame="72" value="5.53478" />
                     <Key frame="107" value="6.20701" />
                 </ActuatorCurve>
-                <ActuatorCurve name="value" actuator="RHand" recordable="0" mute="0" unit="1">
+                <ActuatorCurve name="value" actuator="RHand" mute="0" unit="1">
                     <Key frame="30" value="0.9" />
                     <Key frame="37" value="0.1512" />
                     <Key frame="44" value="0.9" />
@@ -65,7 +65,7 @@
                     <Key frame="72" value="0.1512" />
                     <Key frame="107" value="0" />
                 </ActuatorCurve>
-                <ActuatorCurve name="value" actuator="RShoulderPitch" recordable="0" mute="0" unit="0">
+                <ActuatorCurve name="value" actuator="RShoulderPitch" mute="0" unit="0">
                     <Key frame="30" value="-80.9" />
                     <Key frame="37" value="-80.9" />
                     <Key frame="44" value="-80.9" />
@@ -75,7 +75,7 @@
                     <Key frame="72" value="-80.9" />
                     <Key frame="107" value="81.2851" />
                 </ActuatorCurve>
-                <ActuatorCurve name="value" actuator="RShoulderRoll" recordable="0" mute="0" unit="0">
+                <ActuatorCurve name="value" actuator="RShoulderRoll" mute="0" unit="0">
                     <Key frame="30" value="-47.0128" />
                     <Key frame="37" value="-47.0128" />
                     <Key frame="44" value="-47.0128" />
@@ -85,7 +85,7 @@
                     <Key frame="72" value="-47.0128" />
                     <Key frame="107" value="-52" />
                 </ActuatorCurve>
-                <ActuatorCurve name="value" actuator="RWristYaw" recordable="0" mute="0" unit="0">
+                <ActuatorCurve name="value" actuator="RWristYaw" mute="0" unit="0">
                     <Key frame="30" value="88.6804" />
                     <Key frame="37" value="88.6804" />
                     <Key frame="44" value="88.6804" />
